@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Philosopher:400,700);@import url(http://fonts.googleapis.com/css?family=Open+Sans);@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+body{	background-color: white;}
+
+.content{
+    width: 800px;
+    max-width: 100%;
+    position: relative;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.wrap{	display: block !important;}
+
+img, iframe{
+    max-width: 100%;
+}
+
+h1{    
+    color: black;    
+    font-family: 'Roboto';
+}
+
+h2{
+    background-color: #43509E;
+    margin: 0px;
+    padding: 5px 0px;
+    color: #FFF;
+    font-family: 'Philosopher';
+}
+h2 a{
+    color: white;
+}
+    
+.row{
+    margin: 0px;
+}
+
+.row .col-sm-6{
+    padding: 0px;
+}
+
